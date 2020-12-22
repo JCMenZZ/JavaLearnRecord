@@ -115,7 +115,7 @@
 </beans>
 ```
 
-同样文件名可以为任意，但必须与web.xml中的配置对应。通常为applicationContext。
+同样文件名可以为任意，但必须与web.xml中的配置对应，通常为applicationContext。此时可以根据项目的技术架构对部分代码或结构进行更新。
 
 ### WEB项目的开发要点
 
